@@ -42,7 +42,7 @@ export const PROJECTS: Project[] = [
     'Cleaned, transformed and modelled raw datasets using RapidMiner, applying data preprocessing and validation techniques to ensure data integrity, consistency and accuracy prior to visualization. ',
     'Developed an interactive Power BI dashboard to present structured insights and support informed decision-making.'
     ],
-    posterPdfUrl: 'https://canva.link/ffwu12u0anhh7y3'
+    posterPdfUrl: 'https://drive.google.com/file/d/1BNV3BT2YPTBTCuPNso8gbYiuqRcBO4EL/preview'
   },
   {
     id: 'wildlife-app',
