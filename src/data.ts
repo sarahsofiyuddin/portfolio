@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     timeline: 'April 2025 – July 2025',
     category: 'Data Analytics & Business Intelligence',
     impact: [
-      { label: 'Dataset Size', value: '1,205' },
+      { label: 'Dataset Size', value: '1205' },
       { label: 'Adaptability Factors', value: '4 Variables' },
       { label: 'Interactive Filters', value: 'Multi-Dimensional' },
       { label: 'Platform', value: 'Microsoft Power BI' }
