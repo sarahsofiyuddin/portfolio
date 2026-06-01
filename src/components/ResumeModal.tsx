@@ -160,7 +160,7 @@ ${formData.company}`;
                         required
                         value={formData.fullName}
                         onChange={handleInputChange}
-                        placeholder="e.g. Rachel Green"
+                        placeholder="e.g. Sarah Syazana"
                         className="w-full glass-input pl-10 pr-4 py-2.5 rounded-xl text-slate-900 placeholder-slate-400 text-sm"
                       />
                     </div>
@@ -200,7 +200,7 @@ ${formData.company}`;
                         required
                         value={formData.company}
                         onChange={handleInputChange}
-                        placeholder="e.g. PwC Malaysia"
+                        placeholder="e.g. UiTM"
                         className="w-full glass-input pl-10 pr-4 py-2.5 rounded-xl text-slate-900 placeholder-slate-400 text-sm"
                       />
                     </div>
